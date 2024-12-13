@@ -14,7 +14,7 @@ Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascr
 
 ```
 # clone the repo
-$ git clone https://github.com/azouaoui-med/pro-sidebar-template.git my-project
+$ git clone https://github.com/yoyo-array0825/pro-sidebar-template.git my-project
 
 # go into app's directory
 $ cd my-project
@@ -80,7 +80,6 @@ Sidebar comes with layout support for better organization of the inner structure
 </aside>
 ```
 
-More on the sidebar [here](https://azouaoui-med.github.io/css-pro-layout/docs/reference/sidebar)
 
 ### Menu
 
@@ -243,4 +242,4 @@ $sidebar-footer-height: 64px;
 
 ## License
 
-This code is released under the [MIT](https://github.com/azouaoui-med/pro-sidebar-template/blob/gh-pages/LICENSE) license.
+This code is released under the [MIT](https://github.com/yoyo-array0825/pro-sidebar-template/blob/e76b9c170b3e9eb2e673b0090c50d63b83ce06e5/LICENSE) license.
